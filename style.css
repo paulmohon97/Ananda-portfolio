@@ -79,3 +79,10 @@ h1 {
 footer p {
     text-align: center;
 }
+
+.set_margin {
+
+    padding: 0;
+    margin: 0;
+    padding-bottom: 1px;
+}
